@@ -1,0 +1,16 @@
+question,answer
+What is Artificial Intelligence?,AI is the ability of machines to perform tasks that typically require human intelligence.
+What is Machine Learning?,Machine Learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed.
+What is Deep Learning?,Deep Learning is a specialized form of ML using neural networks with multiple layers to process complex patterns in data.
+What is Streamlit used for?,"Streamlit helps build quick, interactive web apps for data science and machine learning using Python."
+What is a chatbot?,A chatbot is an AI program designed to simulate conversation with users through text or voice interactions.
+What is an API?,API stands for Application Programming Interface—it allows different software systems to communicate with each other.
+What is Gemini?,"Gemini is Google’s generative AI model that can handle text, images, and other inputs to generate creative outputs."
+What is Python?,"Python is a high-level programming language known for its readability and wide use in AI, ML, and web development."
+How do I create a list in Python?,"You can create a list in Python using square brackets, e.g., my_list = [1, 2, 3]."
+What is cloud computing?,"Cloud computing is the delivery of computing services like servers, storage, and software over the internet."
+What is data science?,"Data Science combines statistics, programming, and domain expertise to extract insights from data."
+What is NLP?,NLP stands for Natural Language Processing — it helps machines understand and respond to human language.
+What is fine-tuning in AI?,"Fine-tuning means adjusting a pre-trained model on a smaller, specific dataset to improve performance on a particular task."
+What is Generative AI?,"Generative AI refers to AI models capable of creating new content like text, images, or music."
+What is TensorFlow?,TensorFlow is an open-source machine learning framework developed by Google for building and training AI models.
