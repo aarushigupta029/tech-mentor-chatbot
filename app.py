@@ -10,7 +10,9 @@ st.title("💡 Tech Mentor Chatbot (Powered by Gemini)")
 data = pd.read_csv("tech_mentor_dataset.csv")
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyBSnVks5STjwbW9GSGs9a9-ivpM4VMM9Po")  
+import streamlit as st
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
+  
 
 model = genai.GenerativeModel("gemini-2.0-flash")
 
@@ -24,4 +26,5 @@ if user_input:
 
     response = model.generate_content(prompt)
     st.write("**Bot:**", response.text)
+
 
